@@ -21,15 +21,18 @@ class Generator:
 		return sudoku
 
 	def benchmark(self):
-		r_file = open("benchmark.dat","w")
-		for i in range(1,82):
-			print("i:  ",i)
+		r_file = open("benchmark_a_star.dat","w")
+		for i in range(60,61):
+			#print("i:  ",i)
 			result = []
-			for k in range(4):
+			for k in range(1):
 				sudoku = self.generate(i)
+				#sudoku = Sudoku("in2")
 				agent = Agent(sudoku)
-#				agent.dump(sudoku)
-				result.append(agent.solve('DFS'))
+				sudoku.dump()
+				c = agent.solve('A*')
+				print("expanded states:  ",c)
+				result.append(c)
 			r_file.write(str(i)+","+str(np.mean(result))+'\n')
 		r_file.close()
 

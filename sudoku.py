@@ -40,3 +40,22 @@ class Sudoku:
                 if(self.arr[i][j] == 0):
                     return False
         return True
+
+    def solvable(self):
+        for pos in self.get_empties():
+            if(len(self.get_options(pos[0],pos[1])) == 0):
+                return False
+        return True
+
+    def total_options(self):
+        count = 0
+        for pos in self.get_empties():
+            count += 9 - len(self.get_options(pos[0],pos[1]))
+        return count
+
+    def dump(self):
+        for i in range(9):
+            print ' '.join([str(x) for x in self.arr[i]])
+
+    def get_state(self):
+        return str([item for sublist in self.arr for item in sublist])

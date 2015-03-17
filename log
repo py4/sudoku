@@ -1,0 +1,709 @@
+5 3 4 0 7 8 0 1 2
+6 7 0 1 9 0 0 4 8
+0 0 8 3 4 2 0 0 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 0 0 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 0 9 6 3 5
+3 4 0 2 8 0 0 0 9
+=================================
+considering this state:  
+5 3 4 0 7 8 0 1 2
+6 7 0 1 9 0 0 4 8
+0 0 8 3 4 2 0 0 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 0 0 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 0 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 0)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 215)
+=================================
+considering this state:  
+5 3 4 6 7 8 0 1 2
+6 7 0 1 9 0 0 4 8
+0 0 8 3 4 2 0 0 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 0 0 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 0 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 215)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 207)
+=================================
+considering this state:  
+5 3 4 6 7 8 0 1 2
+6 7 0 1 9 0 0 4 8
+0 0 8 3 4 2 0 0 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 0 0 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 207)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 200)
+=================================
+considering this state:  
+5 3 4 6 7 8 0 1 2
+6 7 2 1 9 0 0 4 8
+0 0 8 3 4 2 0 0 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 0 0 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 200)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 193)
+=================================
+considering this state:  
+5 3 4 6 7 8 0 1 2
+6 7 2 1 9 0 3 4 8
+0 0 8 3 4 2 0 0 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 0 0 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 193)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 186)
+=================================
+considering this state:  
+5 3 4 6 7 8 0 1 2
+6 7 2 1 9 5 3 4 8
+0 0 8 3 4 2 0 0 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 0 0 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 186)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 178)
+=================================
+considering this state:  
+5 3 4 6 7 8 0 1 2
+6 7 2 1 9 5 3 4 8
+0 0 8 3 4 2 0 0 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 5 0 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 178)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 170)
+=================================
+considering this state:  
+5 3 4 6 7 8 0 1 2
+6 7 2 1 9 5 3 4 8
+0 0 8 3 4 2 0 0 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 5 3 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 170)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 163)
+=================================
+considering this state:  
+5 3 4 6 7 8 0 1 2
+6 7 2 1 9 5 3 4 8
+0 0 8 3 4 2 5 0 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 5 3 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 163)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 156)
+=================================
+considering this state:  
+5 3 4 6 7 8 0 1 2
+6 7 2 1 9 5 3 4 8
+0 0 8 3 4 2 5 6 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 5 3 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 156)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 149)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+0 0 8 3 4 2 5 6 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 5 3 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 149)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 142)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+0 9 8 3 4 2 5 6 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 5 3 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 142)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 135)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 5 3 0 0 0
+7 0 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 135)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 127)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+0 5 9 7 0 1 0 0 3
+0 2 6 8 5 3 0 0 0
+7 1 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 127)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 120)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+0 5 9 7 6 1 0 0 3
+0 2 6 8 5 3 0 0 0
+7 1 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 120)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 112)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+0 5 9 7 6 1 0 2 3
+0 2 6 8 5 3 0 0 0
+7 1 3 9 0 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 112)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 104)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+0 5 9 7 6 1 0 2 3
+0 2 6 8 5 3 0 0 0
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 104)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 97)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+0 5 9 7 6 1 0 2 3
+0 2 6 8 5 3 0 0 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 0 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 97)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 90)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+0 5 9 7 6 1 0 2 3
+0 2 6 8 5 3 0 0 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 0 0 0 9
+('total options:  ', 90)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 82)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+0 5 9 7 6 1 0 2 3
+0 2 6 8 5 3 0 0 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+0 0 0 4 1 9 6 3 5
+3 4 0 2 8 6 0 0 9
+('total options:  ', 82)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 75)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+0 5 9 7 6 1 0 2 3
+0 2 6 8 5 3 0 0 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+2 0 0 4 1 9 6 3 5
+3 4 0 2 8 6 0 0 9
+('total options:  ', 75)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 67)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+0 5 9 7 6 1 0 2 3
+0 2 6 8 5 3 0 0 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+2 8 0 4 1 9 6 3 5
+3 4 0 2 8 6 0 0 9
+('total options:  ', 67)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 60)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+8 5 9 7 6 1 0 2 3
+0 2 6 8 5 3 0 0 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+2 8 0 4 1 9 6 3 5
+3 4 0 2 8 6 0 0 9
+('total options:  ', 60)
+=================================
+not solvable
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 53)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+8 5 9 7 6 1 4 2 3
+0 2 6 8 5 3 0 0 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+2 8 0 4 1 9 6 3 5
+3 4 0 2 8 6 0 0 9
+('total options:  ', 53)
+=================================
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 45)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+8 5 9 7 6 1 4 2 3
+4 2 6 8 5 3 0 0 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+2 8 0 4 1 9 6 3 5
+3 4 0 2 8 6 0 0 9
+('total options:  ', 45)
+=================================
+not solvable
+not solvable
+not solvable
+('best pushed:  ', 38)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+8 5 9 7 6 1 4 2 3
+4 2 6 8 5 3 0 0 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+2 8 7 4 1 9 6 3 5
+3 4 0 2 8 6 0 0 9
+('total options:  ', 38)
+=================================
+not solvable
+not solvable
+('best pushed:  ', 30)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+8 5 9 7 6 1 4 2 3
+4 2 6 8 5 3 0 0 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+2 8 7 4 1 9 6 3 5
+3 4 5 2 8 6 0 0 9
+('total options:  ', 30)
+=================================
+not solvable
+not solvable
+('best pushed:  ', 23)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+8 5 9 7 6 1 4 2 3
+4 2 6 8 5 3 0 0 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+2 8 7 4 1 9 6 3 5
+3 4 5 2 8 6 1 0 9
+('total options:  ', 23)
+=================================
+not solvable
+('best pushed:  ', 16)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+8 5 9 7 6 1 4 2 3
+4 2 6 8 5 3 7 0 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+2 8 7 4 1 9 6 3 5
+3 4 5 2 8 6 1 0 9
+('total options:  ', 16)
+=================================
+('best pushed:  ', 8)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+8 5 9 7 6 1 4 2 3
+4 2 6 8 5 3 7 9 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+2 8 7 4 1 9 6 3 5
+3 4 5 2 8 6 1 0 9
+('total options:  ', 8)
+=================================
+('best pushed:  ', 0)
+=================================
+considering this state:  
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+8 5 9 7 6 1 4 2 3
+4 2 6 8 5 3 7 9 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+2 8 7 4 1 9 6 3 5
+3 4 5 2 8 6 1 7 9
+('total options:  ', 0)
+=================================
+5 3 4 6 7 8 9 1 2
+6 7 2 1 9 5 3 4 8
+1 9 8 3 4 2 5 6 7
+8 5 9 7 6 1 4 2 3
+4 2 6 8 5 3 7 9 1
+7 1 3 9 2 4 8 5 6
+9 6 1 5 3 7 2 8 4
+2 8 7 4 1 9 6 3 5
+3 4 5 2 8 6 1 7 9
+done!
+('expanded states:  ', 31)
